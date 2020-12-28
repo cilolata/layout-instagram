@@ -2,9 +2,9 @@
 
 projeto desenvolvido no Bootcamp da Digital Innovation One
 
-<span style="color:red">objetivo:</span> recriar o layot inicial do Instagram utilizando flexbox
+**objetivo:** recriar o layot inicial do Instagram utilizando flexbox
 
-@@stacks:@@
+**stacks:**
 * HTML
 * CSS
 
