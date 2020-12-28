@@ -1,6 +1,6 @@
 # layout-instagram
 
-projeto desenvolvido no Bootcamp da Digital Innovation One
+Projeto desenvolvido no Bootcamp da **Digital Innovation One**
 
 **objetivo:** recriar o layot inicial do Instagram utilizando flexbox
 
