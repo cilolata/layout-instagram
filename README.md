@@ -4,8 +4,7 @@ Projeto desenvolvido no Bootcamp da [**Digital Innovation One**](https://digital
 
 **Objetivo:** recriar o layot inicial do Instagram utilizando flexbox
 
-Stacks:
-{: .Stacks}
+**Stacks:**
 * HTML
 * CSS
 
